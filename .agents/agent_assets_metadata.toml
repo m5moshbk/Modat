@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "VxbdS473taiUzjzF_2rQY"
+uri = "file://artifacts/modat221/public/images/hero.png"
+type = "image"
+title = "Hero workshop background"
+
+[[generated]]
+id = "t93CH7TFgD5qSDGxgocKM"
+uri = "file://artifacts/modat221/public/images/drill-1.png"
+type = "image"
+title = "Professional power drill"
+
+[[generated]]
+id = "pkxaMc1htO-wGofXXOeC3"
+uri = "file://artifacts/modat221/public/images/wrench-1.png"
+type = "image"
+title = "Impact wrench"
+
+[[generated]]
+id = "k2zonLW_t25yEwFNLFvP8"
+uri = "file://artifacts/modat221/public/images/grinder-1.png"
+type = "image"
+title = "Angle grinder"
+
+[[generated]]
+id = "vrNejAHYq41EmSCZoMTug"
+uri = "file://artifacts/modat221/public/images/saw-1.png"
+type = "image"
+title = "Circular saw"
+
+[[generated]]
+id = "GInIj31SfiOzsWUG0T7pT"
+uri = "file://artifacts/modat221/public/images/battery-1.png"
+type = "image"
+title = "Tool battery pack"
+
+[[generated]]
+id = "SJv_8-AE8MwSFYNdoXaBy"
+uri = "file://artifacts/modat221/public/images/generator-1.png"
+type = "image"
+title = "Portable generator"
+
+[[generated]]
+id = "pYq0-S5EGawWPgKMr0XpS"
+uri = "file://artifacts/modat221/public/images/compressor-1.png"
+type = "image"
+title = "Air compressor"
+
+[[generated]]
+id = "QPkUGqmuMthvup_30im5G"
+uri = "file://artifacts/modat221/public/images/hammer-1.png"
+type = "image"
+title = "Rotary hammer"
+
+[[generated]]
+id = "rm8OqaAsuwAkgj8Oh6a1_"
+uri = "file://artifacts/modat221/public/images/toolset-1.png"
+type = "image"
+title = "Tool set box"
