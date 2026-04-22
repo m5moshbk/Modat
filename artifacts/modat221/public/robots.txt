@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://modat221.com/sitemap.xml
